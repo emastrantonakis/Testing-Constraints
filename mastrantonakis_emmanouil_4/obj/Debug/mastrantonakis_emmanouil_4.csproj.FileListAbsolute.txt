@@ -1,0 +1,7 @@
+C:\Users\Emmanouil Mastranton\Desktop\mastrantonakis_emmanouil_4\mastrantonakis_emmanouil_4\obj\Debug\mastrantonakis_emmanouil_4.csprojAssemblyReference.cache
+C:\Users\Emmanouil Mastranton\Desktop\mastrantonakis_emmanouil_4\mastrantonakis_emmanouil_4\obj\Debug\mastrantonakis_emmanouil_4.csproj.CoreCompileInputs.cache
+C:\Users\Emmanouil Mastranton\Desktop\mastrantonakis_emmanouil_4\mastrantonakis_emmanouil_4\bin\Debug\mastrantonakis_emmanouil_4.exe.config
+C:\Users\Emmanouil Mastranton\Desktop\mastrantonakis_emmanouil_4\mastrantonakis_emmanouil_4\bin\Debug\mastrantonakis_emmanouil_4.exe
+C:\Users\Emmanouil Mastranton\Desktop\mastrantonakis_emmanouil_4\mastrantonakis_emmanouil_4\bin\Debug\mastrantonakis_emmanouil_4.pdb
+C:\Users\Emmanouil Mastranton\Desktop\mastrantonakis_emmanouil_4\mastrantonakis_emmanouil_4\obj\Debug\mastrantonakis_emmanouil_4.exe
+C:\Users\Emmanouil Mastranton\Desktop\mastrantonakis_emmanouil_4\mastrantonakis_emmanouil_4\obj\Debug\mastrantonakis_emmanouil_4.pdb
